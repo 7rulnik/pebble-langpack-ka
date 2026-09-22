@@ -1,0 +1,189 @@
+[
+  {
+    "name": "RebbleCyr",
+    "variants": {
+      "001": {
+        "pbff": "rebble_ru",
+        "height": 13,
+        "offset": 1
+      },
+      "002": {
+        "pbff": "rebble_ru",
+        "height": 12,
+        "offset": 2
+      },
+      "006": {
+        "pbff": "rebble_ru",
+        "height": 20,
+        "offset": 4
+      },
+      "007": {
+        "pbff": "rebble_ru",
+        "height": 25,
+        "offset": 3
+      },
+      "004": {
+        "pbff": "rebble_ru",
+        "height": 15,
+        "offset": 3
+      },
+      "005": {
+        "pbff": "rebble_ru",
+        "height": 20,
+        "offset": 4
+      },
+      "008": {
+        "pbff": "rebble_ru",
+        "height": 25,
+        "offset": 3
+      },
+      "003": {
+        "pbff": "rebble_ru",
+        "height": 15,
+        "offset": 3
+      },
+      "009": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 30,
+        "offset": 6,
+        "bold": false
+      },
+      "010": {
+        "ttf": "GoNotoKurrent-Bold.ttf",
+        "height": 30,
+        "offset": 6,
+        "bold": false
+      }
+    }
+  },
+  {
+    "name": "GoNoto",
+    "variants": {
+      "001": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 13,
+        "offset": 1,
+        "bold": false
+      },
+      "002": {
+        "ttf": "GoNotoKurrent-Bold.ttf",
+        "height": 12,
+        "offset": 2,
+        "bold": false
+      },
+      "003": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 15,
+        "offset": 3,
+        "bold": false
+      },
+      "004": {
+        "ttf": "GoNotoKurrent-Bold.ttf",
+        "height": 15,
+        "offset": 3,
+        "bold": false
+      },
+      "005": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 20,
+        "offset": 4,
+        "bold": false
+      },
+      "006": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 20,
+        "offset": 4,
+        "bold": false
+      },
+      "007": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 25,
+        "offset": 3,
+        "bold": false
+      },
+      "008": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 25,
+        "offset": 3,
+        "bold": false
+      },
+      "009": {
+        "ttf": "GoNotoKurrent-Regular.ttf",
+        "height": 30,
+        "offset": 6,
+        "bold": false
+      },
+      "010": {
+        "ttf": "GoNotoKurrent-Bold.ttf",
+        "height": 30,
+        "offset": 6,
+        "bold": false
+      }
+    }
+  },
+  {
+    "name": "NotoGeorgian",
+    "variants": {
+      "001": {
+        "ttf": "NotoSansGeorgian-Regular.ttf",
+        "height": 13,
+        "offset": 1,
+        "bold": false
+      },
+      "002": {
+        "ttf": "NotoSansGeorgian-SemiBold.ttf",
+        "height": 12,
+        "offset": 2,
+        "bold": false
+      },
+      "003": {
+        "ttf": "NotoSansGeorgian-Regular.ttf",
+        "height": 15,
+        "offset": 3,
+        "bold": false
+      },
+      "004": {
+        "ttf": "NotoSansGeorgian-Medium.ttf",
+        "height": 15,
+        "offset": 3,
+        "bold": false
+      },
+      "005": {
+        "ttf": "NotoSansGeorgian-Regular.ttf",
+        "height": 20,
+        "offset": 4,
+        "bold": false
+      },
+      "006": {
+        "ttf": "NotoSansGeorgian-Medium.ttf",
+        "height": 20,
+        "offset": 4,
+        "bold": false
+      },
+      "007": {
+        "ttf": "NotoSansGeorgian-Regular.ttf",
+        "height": 25,
+        "offset": 3,
+        "bold": false
+      },
+      "008": {
+        "ttf": "NotoSansGeorgian-Medium.ttf",
+        "height": 25,
+        "offset": 3,
+        "bold": false
+      },
+      "009": {
+        "ttf": "NotoSansGeorgian-Regular.ttf",
+        "height": 30,
+        "offset": 6,
+        "bold": false
+      },
+      "010": {
+        "ttf": "NotoSansGeorgian-SemiBold.ttf",
+        "height": 30,
+        "offset": 6,
+        "bold": false
+      }
+    }
+  }
+]

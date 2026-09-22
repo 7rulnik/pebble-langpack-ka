@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Cyrillic (fallback Noto)",
+    "start": "0400",
+    "end": "04FF",
+    "font": "GoNoto"
+  },
+  {
+    "name": "Cyrillic Supplement",
+    "start": "0500",
+    "end": "052F",
+    "font": "GoNoto"
+  },
+  {
+    "name": "Georgian",
+    "start": "10A0",
+    "end": "10FF",
+    "font": "NotoGeorgian"
+  },
+  {
+    "name": "Georgian Extended (Mtavruli)",
+    "start": "1C90",
+    "end": "1CBF",
+    "font": "NotoGeorgian"
+  },
+  {
+    "name": "Georgian Supplement (Nuskhuri)",
+    "start": "2D00",
+    "end": "2D2F",
+    "font": "NotoGeorgian"
+  },
+  {
+    "name": "Cyrillic Rebble 0401-040C",
+    "start": "0401",
+    "end": "040C",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 040E-044F",
+    "start": "040E",
+    "end": "044F",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 0451-045C",
+    "start": "0451",
+    "end": "045C",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 045E-045F",
+    "start": "045E",
+    "end": "045F",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 0490-0493",
+    "start": "0490",
+    "end": "0493",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 049A-049B",
+    "start": "049A",
+    "end": "049B",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 04B2-04B3",
+    "start": "04B2",
+    "end": "04B3",
+    "font": "RebbleCyr"
+  },
+  {
+    "name": "Cyrillic Rebble 04E8-04E9",
+    "start": "04E8",
+    "end": "04E9",
+    "font": "RebbleCyr"
+  }
+]
