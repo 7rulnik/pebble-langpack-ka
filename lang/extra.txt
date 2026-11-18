@@ -1,3 +1,3 @@
-# Currency and typographic symbols missing from the stock Gothic fonts
-#font: GoNoto
-₾₽№
+# Lari sign, missing from the stock Gothic fonts
+#font: NotoGeorgian
+₾

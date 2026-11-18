@@ -3,7 +3,7 @@
 render sample text as ASCII. Understands PBF v2 (pebble-lang-gen output) and v3 with 16-bit
 offsets and RLE4 compression (PebbleOS stock fonts).
 
-    python3 tools/pbf_inspect.py releases/pack.pbl "გამარჯობა Привет" 6
+    python3 tools/pbf_inspect.py releases/pack.pbl "Hello გამარჯობა" 6
     python3 tools/pbf_inspect.py GOTHIC_24_BOLD.pbf "Hello"
 """
 import struct, sys, os
