@@ -24,7 +24,7 @@ Download `pebble-langpack-georgian.pbl` from the
 [latest release](https://github.com/7rulnik/pebble-langpack-ka/releases/latest), copy it to
 the phone and open it with the Pebble app. On Android, save it with a file manager first: opening
 straight from the browser can fail. The app shows the pack under its file name until the watch
-reconnects, then as `en_GE (v2)`.
+reconnects, then as "Georgian".
 
 From a Mac with adb:
 
@@ -91,9 +91,10 @@ Only the ten Gothic slots are filled. PebbleOS asserts that a glyph bitmap fits 
 (`MAX_FONT_GLYPH_SIZE`); wide letters in the 42–49 px Bitham and Roboto slots exceed it and would
 reboot the watch. Official Core Devices packs fill the Gothic slots only for the same reason.
 
-The pack reports locale `en_GE` and the name "English + Georgian", following Core Devices'
-`en_IL` / `en_SA` convention for English-UI packs with extra glyphs. The name stays in Latin
-because the watch reports pack names to the app in 30 bytes, and "English + ქართული" takes 31.
+The pack reports locale `en_GE` and the name "Georgian". Like Core Devices' `en_IL` / `en_SA`
+packs, it carries an empty English translation: the app lists it as a language ("Translation and
+fonts"), and selecting it keeps the interface in English. Without a translation the app would
+list it as "Unknown".
 
 ## Rebuild
 
